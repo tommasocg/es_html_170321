@@ -1,0 +1,29 @@
+body {background-color: whitesmoke;}
+
+h1 {
+  font-family: "Helvetica", sans-serif;
+  font-size: 36px;
+  color: crimson;
+  text-align: center;}
+
+h2 {
+  font-family: "Helvetica", sans-serif;
+  font-size: 24px;
+  color: red;
+  text-align: center;}
+  
+h3 {
+  font-family: "Helvetica", sans-serif;
+  font-size: 22px;}
+
+p {
+  font-family: "Helvetica", sans-serif;
+  font-size: 20px;}
+  
+a {
+  font-family: "Helvetica", sans-serif;
+  font-size: 18px;}
+
+ol {
+  font-family: "Helvetica", sans-serif;
+  font-size: 18px;}
